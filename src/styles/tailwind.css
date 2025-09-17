@@ -10,6 +10,10 @@ body {
   font-family: theme('fontFamily.sans');
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 a {
   text-decoration: none;
 }

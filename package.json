@@ -1,0 +1,14 @@
+{
+  "name": "red-clay-field-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Monorepo for the Red Clay Field Guide frontend and PHP API",
+  "scripts": {
+    "dev": "pnpm --filter frontend dev",
+    "build": "pnpm --filter frontend build"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "packageManager": "pnpm@10.13.1"
+}

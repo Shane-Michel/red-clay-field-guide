@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title">
+  <title id="title">Red Clay Field Guide</title>
+  <defs>
+    <style>
+      .brand { fill:#b45309 }
+      .dark  { fill:#1a1a1a }
+      .light { fill:#ffffff }
+    </style>
+  </defs>
+
+  <!-- Background (solid for reliable social previews) -->
+  <rect x="0" y="0" width="1200" height="630" class="light" />
+
+  <!-- Monogram block -->
+  <g transform="translate(96,195)">
+    <rect x="0" y="0" width="240" height="240" rx="36" class="brand"/>
+    <text x="120" y="158" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="128" font-weight="700" class="light">RC</text>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(380,230)">
+    <text x="0" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700" class="dark">Red Clay</text>
+    <text x="0" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="400" class="brand">Field Guide</text>
+  </g>
+</svg>
